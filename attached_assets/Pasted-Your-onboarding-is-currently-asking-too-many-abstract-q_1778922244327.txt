@@ -1,0 +1,427 @@
+Your onboarding is currently asking too many abstract questions before proving value.
+
+LarryLoop and Fastlane both do one thing correctly:
+
+They make the user feel the AI already understands their business before asking them to configure everything.
+
+Your onboarding currently feels like:
+
+survey
+
+instead of:
+
+project initialization
+
+That difference matters psychologically.
+
+⸻
+
+What your onboarding currently gets wrong
+
+1. Too many identity questions early
+
+This is weak:
+
+Coach
+SaaS / Founder
+Agency
+Other
+
+Why weak:
+
+the website already reveals most of this
+users hate answering obvious things
+it feels generic
+
+Fastlane asks role later, after website analysis.
+
+Correct.
+
+⸻
+
+2. Revenue goal question is bad
+
+This:
+
+What monthly revenue goal would you like 8 to help you work toward?
+
+feels fake-marketing-coach-y.
+
+It sounds like:
+
+manifestation onboarding
+
+not serious growth infrastructure.
+
+Remove it completely.
+
+⸻
+
+3. “What format do you want more?”
+
+Too early.
+
+Most users do not know.
+
+The system should recommend formats after research.
+
+You can ask this later as:
+
+Preferred content style
+
+⸻
+
+4. “Biggest bottleneck?”
+
+Weak wording.
+
+Everyone chooses:
+
+consistency
+ideas
+
+because it is vague.
+
+You need operationally useful answers.
+
+⸻
+
+What LarryLoop gets right
+
+LarryLoop’s onboarding is smarter because:
+
+1. Website first
+
+Critical.
+
+The website is the real onboarding.
+
+It extracts:
+
+positioning
+product
+tone
+audience
+offer
+category
+
+You should absolutely do this.
+
+⸻
+
+2. “What does it do?”
+
+This is VERY important.
+
+Because AI scraping alone misses:
+
+nuance
+desired positioning
+identity
+vision
+
+This field is gold.
+
+Keep it.
+
+⸻
+
+3. Revenue connection onboarding
+
+Brilliant psychologically.
+
+Even if users skip it.
+
+Because it signals:
+
+this tool cares about money
+not vanity
+
+You need this later.
+
+Not first screen.
+
+⸻
+
+4. Style rules
+
+Very important.
+
+This is one of the strongest parts of their onboarding.
+
+Because it avoids generic AI garbage.
+
+You NEED this.
+
+⸻
+
+What Fastlane gets right
+
+Fastlane’s best move:
+
+Website analysis before questions.
+
+This creates:
+
+instant intelligence feeling
+
+The user feels:
+
+the AI understands me
+
+before answering anything.
+
+Very important psychologically.
+
+⸻
+
+What Fastlane gets wrong
+
+Too many startup questions
+
+These are mostly useless:
+
+team size
+monthly revenue
+where did you hear about us
+
+Good for investor metrics.
+
+Bad for product intelligence.
+
+⸻
+
+“Why did you sign up?”
+
+Mostly useless.
+
+People choose random things.
+
+⸻
+
+Massive testimonial overload
+
+Good for landing page.
+
+Bad onboarding.
+
+⸻
+
+The onboarding you should actually build
+
+Your onboarding should feel like:
+
+“8 is building your project brain.”
+
+Not:
+
+“Please fill out this form.”
+
+⸻
+
+Final onboarding flow
+
+Screen 1 — Website
+
+Minimal.
+
+Paste your website
+
+Subtext:
+
+8 will analyze your product, audience, competitors, and content opportunities.
+
+Field:
+
+https://
+
+Button:
+
+Analyze Website
+
+⸻
+
+Screen 2 — Live analysis
+
+Very important psychologically.
+
+Animated analysis steps:
+
+Reading positioning...
+Understanding audience...
+Analyzing competitors...
+Finding customer pain points...
+Studying content patterns...
+Building project memory...
+
+This is your “thinking” moment like Replit/Perplexity.
+
+⸻
+
+Screen 3 — AI summary confirmation
+
+Now the user sees:
+
+Left side
+
+Product summary
+Detected audience
+Detected category
+Detected tone
+Detected offer
+
+Right side
+
+Competitors found
+Common content patterns
+Suggested positioning
+
+Buttons:
+
+Looks good
+Edit manually
+
+This is extremely important.
+
+The user now trusts the system.
+
+⸻
+
+Screen 4 — Goal
+
+ONLY ask what the AI cannot infer reliably.
+
+Question:
+
+What should 8 optimize for first?
+
+Choices:
+
+Sales
+App installs
+Leads
+Audience growth
+
+This matters operationally.
+
+Keep this.
+
+⸻
+
+Screen 5 — Brand rules
+
+CRITICAL.
+
+Question:
+
+What should 8 avoid?
+
+Examples:
+
+No memes
+No fake urgency
+No luxury-breaking slang
+No aggressive sales tone
+No AI-looking visuals
+No trends
+
+Then:
+
+Preferred style
+
+Examples:
+
+Premium
+Educational
+Founder-led
+Emotional
+Aggressive growth
+Clean/minimal
+
+This is MUCH stronger than:
+
+What format do you want?
+
+⸻
+
+Screen 6 — Platforms
+
+Question:
+
+Where should 8 focus first?
+
+Choices:
+
+TikTok
+Instagram
+X/Twitter
+LinkedIn
+YouTube
+
+Limit:
+
+Choose up to 2
+
+This prevents overwhelming.
+
+⸻
+
+Screen 7 — Content engine setup
+
+Now ask:
+
+What should 8 generate first?
+
+Choices:
+
+Carousel stories
+Short videos
+Both
+
+THIS is where format belongs.
+
+Not earlier.
+
+⸻
+
+Screen 8 — Dashboard generation
+
+Loading state:
+
+Building your first experiment batch...
+
+Then:
+
+Generating hooks...
+Creating storyline structures...
+Preparing first creative tests...
+
+⸻
+
+What should be removed entirely
+
+REMOVE:
+
+monthly revenue goal
+team size
+where did you hear about us
+biggest bottleneck
+business model
+coach/founder labels
+
+These are either:
+
+investor analytics
+marketing fluff
+inferable
+not operationally useful
+
+⸻
+
+What you MUST add
+
+1. Website-first onboarding
+
+Mandatory.
+
+This is the biggest improvement.

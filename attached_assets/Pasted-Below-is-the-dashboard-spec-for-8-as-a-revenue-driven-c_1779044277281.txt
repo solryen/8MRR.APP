@@ -1,0 +1,677 @@
+Below is the dashboard spec for 8 as a revenue-driven content platform, not a generic social scheduler.
+
+What competitors imply
+
+Fastlane’s strongest pattern is simple: website in → product/audience/tone learned → swipe through generated content → schedule it. Their public site says Blitz Mode lets users swipe through thousands of generated pieces and fill a calendar.  ￼ Product Hunt describes the same idea: AI influencer content remixed from trending content, swipe-like selection, then scheduling to TikTok, Instagram Reels, and YouTube Shorts.  ￼
+
+LarryLoop’s strongest pattern is the loop: generate content, post it, track what drives revenue, iterate winners.  ￼ Motion’s strongest pattern is creative analytics: grouping creatives to reveal winning patterns and momentum instead of judging isolated assets.  ￼ Foreplay’s strongest pattern is inspiration/research: save ads, track competitors, identify winning patterns, and turn insights into creative direction.  ￼
+
+8 should combine those, but with one clear difference:
+
+8 is not “make more content.” 8 is “make content that moves people closer to revenue, then prove what worked.”
+
+Your uploaded Multireach spec already points in the right direction: its value is voice-of-customer research, intent-based visual matching, hook variations, and creative testing for operators managing multiple client/project outputs.  ￼
+
+First-day dashboard
+
+Left sidebar
+
+Use a thin, clean sidebar. Every icon should communicate function instantly.
+
+8 logo
+
+1. Home
+
+Icon: small pulse chart / command center square
+Purpose: the main revenue/content decision page.
+
+2. Create
+
+Icon: magic wand inside a rectangle
+Purpose: generate carousels/slideshows.
+
+3. Inspiration
+
+Icon: spark + bookmark
+Purpose: see source posts/patterns that inspired 8’s ideas.
+
+4. Experiments
+
+Icon: stacked cards / test tubes
+Purpose: manage generated batches and hypotheses.
+
+5. Results
+
+Icon: bar chart with dollar dot
+Purpose: rank posts by attention, commercial intent, and revenue.
+
+6. Memory
+
+Icon: brain / database cylinder
+Purpose: project knowledge: product, audience, brand rules, learned patterns.
+
+7. Tracking
+
+Icon: link chain + target
+Purpose: tracking links, bio link, revenue connections.
+
+8. Assets
+
+Icon: image stack
+Purpose: generated images, uploaded brand assets, exports.
+
+9. Settings
+
+Icon: gear
+Purpose: platforms, brand rules, billing, credits, connected accounts.
+
+Bottom:
+
+Credits
+Ask Owl
+
+Owl icon: owl face / chat bubble.
+Owl is not a main page. It floats.
+
+Home page: first day
+
+Home should visually combine content creation and revenue logic.
+
+Top bar
+
+Project switcher
+Goal badge: Sales / Leads / Installs / Audience
+Platform badge: Instagram + TikTok
+Mode badge: Manual / Assisted / Autopilot later
+Credits
+Ask Owl
+
+Card 1: “8’s Current Read”
+
+First-day state:
+
+8 built your first content strategy.
+
+Inside:
+
+Product detected:
+[short summary]
+Goal:
+[Sales / Leads / Installs / Audience]
+Audience:
+[detected target audience]
+Best starting angle:
+[pain-led / outcome-led / comparison / founder story]
+Recommended first format:
+Instagram + TikTok carousels
+
+Buttons:
+
+Generate First Batch
+View Strategy
+Edit Brand Rules
+
+Card 2: “Revenue Path”
+
+This replaces vague “monthly revenue goal.”
+
+Shows the path from content to money:
+
+Post → Profile Visit → Link Click → Signup/Lead/Sale → Revenue
+
+First-day state:
+
+Revenue tracking not connected yet.
+8 will use Commercial Intent Score until revenue data is available.
+
+Buttons:
+
+Set Up Tracking Link
+Connect Stripe
+Connect Shopify
+Connect RevenueCat
+Manual Mode
+
+Card 3: “First Batch Recommendation”
+
+Start with 10 carousel experiments:
+3 pain-led
+2 outcome-led
+2 mistake-correction
+1 comparison
+1 founder/story
+1 trend-pattern remix
+
+Buttons:
+
+Generate Batch
+Customize Batch
+
+Card 4: “Inspiration Preview”
+
+Shows 3 source-pattern cards.
+
+Each:
+
+Source platform
+Original preview thumbnail
+Views
+Comments
+Shares/Saves if available
+Pattern label
+Why 8 selected it
+
+Example:
+
+Pattern: Mistake Correction
+Reason: High comment density + direct buyer questions.
+
+Buttons:
+
+View Inspiration
+Use This Pattern
+Ignore
+
+Card 5: “Project Memory Preview”
+
+Shows what 8 already knows.
+
+Product truth
+Audience pain
+Brand rules
+Claim boundaries
+Competitors
+
+Buttons:
+
+Open Memory
+Edit Rules
+
+Home page after growth
+
+Once posts exist, Home changes.
+
+Card 1: “What is working”
+
+Pain-led carousel hooks are driving the strongest buyer intent.
+
+Shows:
+
+Best pattern
+Best post
+Confidence: Weak / Emerging / Supported / Strong
+
+Buttons:
+
+Generate Next Batch
+View Evidence
+Turn Into Ad Candidate
+
+Card 2: “Attention vs Revenue”
+
+Three visual columns:
+
+Attention Score
+Commercial Intent Score
+Revenue Score
+
+Each column shows:
+
+top creative
+score
+trend
+confidence
+
+Example:
+
+Attention: 84
+Best for views: Carousel 07
+Commercial Intent: 71
+Best for clicks: Carousel 03
+Revenue: £42
+Best revenue: Carousel 03
+
+This is the core product visual.
+
+Card 3: “Goal Progress”
+
+Changes based on onboarding.
+
+If Sales:
+
+Target: 20 sales/month
+Current: 6
+Projected: 14
+Gap: 6
+
+If Leads:
+
+Target: 50 leads/month
+Current: 18
+Best lead creative: Carousel 04
+
+If Installs:
+
+Target: 500 app clicks/month
+Current: 143
+
+Buttons:
+
+Generate Gap-Filling Batch
+Add Results
+Connect Revenue
+
+Card 4: “Next Move”
+
+Make 5 more carousels using:
+- pain/confession hook
+- direct CTA
+- same visual style as Carousel 03
+Avoid:
+- trend jokes
+- vague educational hooks
+
+Buttons:
+
+Generate Recommended Batch
+Customize
+Ignore
+
+Card 5: “What 8 Learned”
+
+Supported:
+Direct CTAs outperform soft CTAs.
+Emerging:
+Comparison carousels drive saves but weak clicks.
+Weak:
+Trend-remix posts increase views but not buyer intent.
+
+Button:
+
+Open Memory
+
+Create page
+
+This should borrow Fastlane’s simplicity, but not copy the Tinder UX exactly.
+
+Layout
+
+Left: generated carousel preview.
+Right: intelligence panel.
+
+Top buttons
+
+Generate Recommended Batch
+Generate From Inspiration
+Generate More Like Winner
+Test One Variable
+Manual Create
+
+Generated carousel card
+
+Shows:
+
+Carousel preview
+Hook
+Angle
+CTA
+Goal
+
+Right intelligence panel:
+
+Inspired by:
+[source post/card]
+Pattern:
+[pain confession / mistake correction / comparison]
+What this tests:
+[hook / CTA / angle / visual style]
+Expected signal:
+[profile visits / link clicks / saves / comments]
+
+Buttons:
+
+Approve
+Skip
+Edit Text
+Replace Visual
+Generate Variant
+Export
+Mark Posted
+
+Do not use pure swipe as the only UX. Fastlane already owns that feel. Use approval cards with evidence.
+
+Inspiration page
+
+This is Foreplay-like, but niche/content-specific.
+
+Top controls
+
+Refresh Trends
+Add Competitor
+Filter Platform
+Filter Pattern
+Sort by Commercial Intent
+
+Inspiration cards
+
+Each card:
+
+Original post preview
+Platform
+Views
+Likes
+Comments
+Shares/Saves if available
+Comment density
+Pattern label
+Commercial intent estimate
+Freshness
+
+Buttons:
+
+Use Pattern
+View Comments
+Ignore
+Save
+
+Important: sort by commercial relevance, not views.
+
+Experiments page
+
+Batches live here.
+
+Tabs:
+
+Drafts
+Approved
+Posted
+Needs Results
+Completed
+
+Batch card:
+
+Batch name
+Date
+Goal
+Hypothesis
+Number of carousels
+Status
+
+Buttons:
+
+Open Batch
+Add Results
+Generate Variant Batch
+Archive
+
+Creative card inside batch:
+
+Preview
+Hook family
+Pain angle
+CTA
+Tracking link
+Status
+
+Buttons:
+
+Copy Caption
+Download
+Mark Posted
+Add Results
+Make Variant
+
+Results page
+
+This is the scoreboard.
+
+Top filters
+
+Date range
+Platform
+Goal
+Batch
+Format
+Confidence
+
+Main table
+
+Columns:
+
+Creative
+Platform
+Views
+Comments
+Saves
+Shares
+Profile Visits
+Link Clicks
+Conversions
+Revenue
+Attention Score
+Commercial Intent Score
+Revenue Score
+Decision
+
+Decision labels:
+
+Repeat
+Remix
+Kill
+Needs More Data
+Ad Candidate
+
+Buttons:
+
+Generate From Winners
+Turn Into Ad Pack
+Export CSV
+
+Pattern cards
+
+Best Hook
+Best Pain Angle
+Best CTA
+Best Visual Style
+Worst Pattern
+
+Each:
+
+score
+evidence count
+confidence
+
+Memory page
+
+Project brain.
+
+Sections:
+
+Product Truth
+Audience Pain
+Customer Language
+Brand Rules
+Competitor Patterns
+Winning Patterns
+Losing Patterns
+Claim Boundaries
+
+Each section card:
+
+summary
+confidence
+last updated
+evidence count
+
+Buttons:
+
+Edit
+Lock
+View Evidence
+Suggest Update
+
+Rules:
+
+Brand Rules = user-owned
+Winning/Losing Patterns = performance-owned
+Product Truth/Audience Pain = research-owned
+
+Tracking page
+
+This must exist because revenue is the positioning.
+
+Sections:
+
+1. Tracking Link
+
+8.link/project-name
+
+Buttons:
+
+Copy Link
+Open Link Page
+Edit Destination
+
+2. Attribution Mode
+
+Manual Results
+Bio Link Attribution
+Direct Tracking Link
+Revenue Connected
+
+3. Connections
+
+Stripe
+Shopify
+RevenueCat
+Adapty
+TikTok
+Instagram
+
+Buttons:
+
+Connect
+Disconnect
+Test Event
+
+4. Confidence Explainer
+
+Shows:
+
+High confidence: direct tracking link + conversion
+Medium confidence: bio link click spike after post
+Low confidence: manual metrics only
+
+Assets page
+
+Tabs:
+
+Generated Carousels
+Generated Images
+Uploaded Brand Assets
+Saved Hooks
+Captions
+Exports
+
+Buttons:
+
+Upload Asset
+Use in Batch
+Create Brand Kit
+Delete
+
+Settings page
+
+Sections:
+
+Project Setup
+Brand Rules
+Platforms
+Billing/Credits
+Team
+
+Brand Rules fields:
+
+Allowed tone
+Forbidden tone
+Words to avoid
+Claims to avoid
+Visual style
+CTA style
+Forbidden formats
+
+Buttons:
+
+Save Rules
+Add Rule
+Reset to Onboarding
+
+What to copy from Fastlane
+
+Copy conceptually:
+
+website-first onboarding
+instant content generation
+simple approve/skip flow
+source inspiration visibility
+fast path to scheduling/exporting
+
+Do not copy exactly:
+
+Tinder swipe as main UX
+calendar-first dashboard
+generic viral-content framing
+AI influencer as core identity
+
+What 8 must own
+
+Revenue Path
+Commercial Intent Score
+Audience Alignment
+Pattern Learning
+Next Batch Recommendation
+Inspiration ranked by buyer intent, not virality
+
+Dashboard evolution
+
+Day 1
+
+Dashboard says:
+
+We understand your product.
+Here is the first strategy.
+Here are first inspiration patterns.
+Generate your first batch.
+
+After first posts
+
+Dashboard says:
+
+Add results.
+We need data before learning.
+
+After 5–10 posts
+
+Dashboard says:
+
+Early winner detected.
+Generate more like this.
+
+After 20–30 posts
+
+Dashboard says:
+
+Supported patterns found.
+Kill weak angles.
+Turn best pattern into ad candidate.
+
+After revenue connection
+
+Dashboard says:
+
+This post made money.
+This pattern is not just viral — it converts.
+
+Final definition
+
+8’s dashboard starts as a website-to-carousel lab and evolves into a revenue command center. On day one it shows strategy, inspiration, tracking setup, and first batch generation. As the user posts, it separates attention from buyer intent. As revenue connects, it ranks content by money generated and tells the user exactly what to make next.
